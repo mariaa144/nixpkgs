@@ -1,0 +1,17 @@
+diff --git a/maintainers/maintainer-list.nix b/maintainers/maintainer-list.nix
+index 6d9da62e2dd..d5ad15ef1e9 100644
+--- a/maintainers/maintainer-list.nix
++++ b/maintainers/maintainer-list.nix
+@@ -7857,6 +7857,12 @@
+     githubId = 26470037;
+     name = "Markus Kowalewski";
+   };
++  mariaa144 = {
++    email = "speechguard_intensivist@aleeas.com";
++    github = "mariaa144";
++    githubId = 105451387;
++    name = "Maria";
++  };
+   marijanp = {
+     name = "Marijan Petričević";
+     email = "marijan.petricevic94@gmail.com";

@@ -10,9 +10,9 @@ stdenv.mkDerivation rec {
   version = "1.0.1";
 
   src = fetchFromGitHub {
-    owner  = "driehuis";
-    repo   = "Nagios_check_smartmon";
-    rev    = version;
+    owner = "driehuis";
+    repo = "Nagios_check_smartmon";
+    rev = version;
     sha256 = "tiIeFiHdDgqoeznk9XdCE7owIMnnsQ0fmtj8foFoUD8=";
   };
 
